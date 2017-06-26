@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Send___Get_mail.Properties
+namespace WpfApp1.Properties
 {
 
 
